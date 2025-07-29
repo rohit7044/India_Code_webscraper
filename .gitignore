@@ -193,10 +193,8 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-.annotatedCentralActs_old/*
-.acts_json/*
-.acts_json_pdf/*
-.chromedriver/*
-.temp/*
-.json_data_extract.py
-.act_titles.txt
+annotatedCentralActs_old/
+acts_json_pdf/
+chromedriver/
+json_data_extract.py
+act_titles.txt
